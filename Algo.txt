@@ -6,7 +6,7 @@
 4. Talk to cashier
 5. Place order
 6. Wait for delivery
-7. Greet delivery person
+7. Greet delivery person if covid isnt happening
 8. Accept order
 9. Did we pay online or over the phone? if not, see step 9a
     9a. pay delivery person
@@ -14,3 +14,4 @@
 11. Eat pizza
 12. Are we still hungry?  See step 1
 13. blah
+14. Maybe I do something else in this step
