@@ -1,0 +1,13 @@
+1. Decide which pizza place to order from
+2. Decide the type of pizza and or food
+3. Call or order online?
+    3a. Call pizza place - see step 4
+    3b. Go to website - see step 5
+4. Talk to cashier
+5. Place order
+6. Wait for delivery
+7. Greet delivery person
+8. Accept order
+9. Did we pay online or over the phone? if not, see step 9a
+    9a. pay delivery person
+10. Tip delivery person
